@@ -40,13 +40,15 @@ nav ul li{
   background-color: black;
   color: white;
   font-family: 'Varela-Round', sans-serif;
-  
+  margin-right: 50px;
+  margin-left: 50px;
   display: flex;
+  
   width: 70%;
   margin: 23px auto;
   border-radius: 12px;
   padding: 15px;
-  background-image: url(images/music-imag.jpg)
+  background-image: url('images/bac.jpg')
 }
 .bottom{
     position: sticky;
@@ -72,7 +74,9 @@ nav ul li{
 
 }
 .songContainer{
-    
+    margin-top: 54px;
+    text-align: right;
+    position: absolute;
 }
 .songItem{
     
