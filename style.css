@@ -50,8 +50,8 @@ nav ul li{
   margin-right: 50px;
   margin-left: 50px;
   display: flex;
-  /* justify-content: end; */
-  width: 70%;
+  justify-content: flex-start;
+  width: 70%
   margin: 23px auto;
   border-radius: 12px;
   padding: 15px;
